@@ -1,3 +1,3 @@
 # tealich.github.io
 Github page for my personal blog
-Don't look too deep into it lol
+Don't look too deep into it, jank be located here
